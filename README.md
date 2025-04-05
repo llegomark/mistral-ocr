@@ -4,14 +4,13 @@ A Gradio-based web interface for document OCR and understanding using Mistral AI
 
 ## Overview
 
-This application provides a powerful interface to Mistral's Optical Character Recognition technology. It allows you to extract text and images from PDFs and images with unprecedented accuracy while maintaining document structure. You can also ask questions about documents using Mistral's Large Language Models.
+This application provides a powerful interface to Mistral's Optical Character Recognition technology. It allows you to extract text and images from PDFs and images with unprecedented accuracy while maintaining document structure.
 
 ## Features
 
 - **Advanced Document Processing**: Extract text while maintaining document structure and hierarchy
 - **Image Extraction**: Preserves and extracts embedded images from documents
 - **Multiple Input Methods**: Process files via upload or URL
-- **Document Understanding**: Ask questions about document content using Mistral LLMs
 - **Multilingual Support**: Process documents in multiple languages with high accuracy
 - **Formatted Output**: Results in clean, well-formatted markdown
 
@@ -58,10 +57,9 @@ This application provides a powerful interface to Mistral's Optical Character Re
 
 2. Open your browser and navigate to `http://127.0.0.1:7860`
 
-3. Use the application through one of three tabs:
+3. Use the application through one of two tabs:
    - **Upload File**: Upload PDFs or images for OCR processing
    - **Enter URL**: Provide a URL to a PDF or image for OCR processing
-   - **Document Understanding**: Ask questions about document content
 
 ## Technical Performance
 
