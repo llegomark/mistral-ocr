@@ -84,12 +84,6 @@ Mistral OCR outperforms other leading OCR solutions in rigorous benchmarks:
 2. Click "Process Uploaded File"
 3. View the extracted text and images in the output
 
-### Asking questions about a document:
-1. Enter a URL to a PDF in the "Document Understanding" tab
-2. Type your question in the input field
-3. Select a model (mistral-small, medium, or large)
-4. Click "Ask Question" to get an answer based on the document content
-
 ## Use Cases
 
 This application can be used for various document processing tasks:
